@@ -1,0 +1,13 @@
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\obj\Debug\netcoreapp3.1\Caso_1.csprojAssemblyReference.cache
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\obj\Debug\netcoreapp3.1\Caso_1.AssemblyInfoInputs.cache
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\obj\Debug\netcoreapp3.1\Caso_1.AssemblyInfo.cs
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\obj\Debug\netcoreapp3.1\Caso_1.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\bin\Debug\netcoreapp3.1\Caso_1.exe
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\bin\Debug\netcoreapp3.1\Caso_1.deps.json
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\bin\Debug\netcoreapp3.1\Caso_1.runtimeconfig.json
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\bin\Debug\netcoreapp3.1\Caso_1.runtimeconfig.dev.json
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\bin\Debug\netcoreapp3.1\Caso_1.dll
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\bin\Debug\netcoreapp3.1\Caso_1.pdb
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\obj\Debug\netcoreapp3.1\Caso_1.dll
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\obj\Debug\netcoreapp3.1\Caso_1.pdb
+D:\UPN\CICLO IV\Estructura de Datos\Trabajo de campo\TC5\Caso_1\obj\Debug\netcoreapp3.1\Caso_1.genruntimeconfig.cache
